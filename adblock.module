@@ -1,6 +1,7 @@
 #!url=https://raw.githubusercontent.com/qmaxxl/shadowrocket/main/adblock.module
 #!name= 去广告
-#!desc= 仅去广告,原作者地址：https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_ad_only.conf
+#!desc= 仅去广告
+#!author:https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_ad_only.conf
 #!date:2024-04-27
 
 [Rule]
